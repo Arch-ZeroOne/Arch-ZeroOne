@@ -22,6 +22,14 @@ Hello there! I'm **Windyl**, a passionate 2nd-year IT student exploring the limi
 
 ---
 
+## 📚 Currently Learning  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP" width="40" height="40"/>
+</p>
+
+---
+
 ## 🎯 Target Tech Stack  
 <p align="left">
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40" height="40"/>
