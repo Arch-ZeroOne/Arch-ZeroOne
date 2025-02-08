@@ -34,7 +34,7 @@ Hi I am Windyl P. Monton <br>A BSIT Student In DORSU Banaybanay Campus<br>Curren
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MERNMagician/MernMagician/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MernMagician/MernMagicianr/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MernMagician/MernMagician/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MERNMagician/MERNMagician/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MERNMagician/MERNMagician/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MERNMagician/MERNMagician/output/github-snake.svg" />
 </picture>
