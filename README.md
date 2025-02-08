@@ -1,52 +1,18 @@
-# ![🚀](https://img.icons8.com/ios-filled/24/rocket.png) Welcome to My GitHub Universe!  
+# 💫 About Me:
+# ![🚀](https://img.icons8.com/ios-filled/24/rocket.png) Welcome to My GitHub Universe!  <br><br>Hey there! I'm **Windyl**, a **2nd-year IT student** on a mission to explore, build, and grow in the world of tech.  <br><br>---<br><br>## ![🛠️](https://img.icons8.com/ios-filled/24/settings.png) About Me  <br>- Passionate about **web development** and building cool projects.  <br>- Currently **diving deep into JavaScript and PHP** to master full-stack development.  <br>- Always **learning, experimenting, and leveling up** my skills.  <br><br>---<br><br>## ![🌐](https://img.icons8.com/ios-filled/24/domain.png) Tech Stack  <br><p align="left"><br>  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40" height="40"/><br>  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" height="40"/><br>  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40"/><br>  <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/><br>  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub" width="40" height="40"/><br></p>  <br><br>---<br><br>## ![📚](https://img.icons8.com/ios-filled/24/book.png) Currently Learning  <br><p align="left"><br>  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40"/><br>  <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP" width="40" height="40"/><br></p>  <br><br>---<br><br>## ![🎯](https://img.icons8.com/ios-filled/24/bullseye.png) Target Tech Stack  <br><p align="left"><br>  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40" height="40"/><br>  <img src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js" width="40" height="40"/><br>  <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js" width="40" height="40"/><br>  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40" height="40"/><br></p>  <br><br>---<br><br>## ![🌟](https://img.icons8.com/ios-filled/24/star.png) My Goals  <br>- Master **full-stack development** and build impactful projects.  <br>- Develop **tools and applications** that enhance productivity.  <br>- Continuously **grow as a developer**, one commit at a time.  <br><br>---<br><br>## ![💬](https://img.icons8.com/ios-filled/24/speech-bubble.png) Let's Connect!  <br>Got ideas or feedback? Feel free to **connect, collaborate, or just say hi!**  <br>Check out my projects below and **follow my journey**.  <br>
 
-Hey there! I'm **Windyl**, a **2nd-year IT student** on a mission to explore, build, and grow in the world of tech.  
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Windyl Monton) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/WindylMonton_08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/WindylMonton) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mahWindyl) 
 
-## ![🛠️](https://img.icons8.com/ios-filled/24/settings.png) About Me  
-- Passionate about **web development** and building cool projects.  
-- Currently **diving deep into JavaScript and PHP** to master full-stack development.  
-- Always **learning, experimenting, and leveling up** my skills.  
-
----
-
-## ![🌐](https://img.icons8.com/ios-filled/24/domain.png) Tech Stack  
-<p align="left">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub" width="40" height="40"/>
-</p>  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MERNmagician&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MERNmagician&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MERNmagician&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MERNmagician&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## ![📚](https://img.icons8.com/ios-filled/24/book.png) Currently Learning  
-<p align="left">
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP" width="40" height="40"/>
-</p>  
-
----
-
-## ![🎯](https://img.icons8.com/ios-filled/24/bullseye.png) Target Tech Stack  
-<p align="left">
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40" height="40"/>
-</p>  
-
----
-
-## ![🌟](https://img.icons8.com/ios-filled/24/star.png) My Goals  
-- Master **full-stack development** and build impactful projects.  
-- Develop **tools and applications** that enhance productivity.  
-- Continuously **grow as a developer**, one commit at a time.  
-
----
-
-## ![💬](https://img.icons8.com/ios-filled/24/speech-bubble.png) Let's Connect!  
-Got ideas or feedback? Feel free to **connect, collaborate, or just say hi!**  
-Check out my projects below and **follow my journey**.  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
