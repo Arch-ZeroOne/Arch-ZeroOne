@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I am Windyl Monton, a 2nd-year BSIT Student</h4>
+<h4 align="left">Hi am Windyl P. Monton an aspiring Fullstack Developer</h4>
 
 
 
