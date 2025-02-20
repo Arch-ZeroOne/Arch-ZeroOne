@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Hi am Windyl P. Monton an aspiring Fullstack Developer</h4>
+<h4 align="left">Hi, I'm Windyl P. Monton, a Full Stack Developer in the making and a 2nd-year BSIT student. Passionate about building interactive and scalable web applications, I continuously strive to enhance my skills and explore new technologies to become a proficient developer.</h4>
 
 ###
 
@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
 </div>
 
 ###
