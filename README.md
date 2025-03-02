@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="50" height="50"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/XAMPP_logo.svg" title="XAMPP" width="50" height="50"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Xampp_logo.svg" title="XAMPP" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" title="Notion" width="50" height="50"/>
 </div>
 
@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="50" height="50"/>  
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logoColor=white" title="Axios" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Axios_logo.png" title="Axios" width="50" height="50"/>  
 </div>
 
 ###
