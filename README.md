@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="50" height="50"/>  
-  <img src="https://i.imgur.com/8YlX9kj.png" title="XAMPP" width="50" height="50"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Xampp_logo.png" title="XAMPP" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" title="Notion" width="50" height="50"/>
 </div>
 
@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-original.svg" title="Axios" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/altryne/axios/master/axios-logo.png" title="Axios" width="50" height="50"/>  
 </div>
 
 ###
