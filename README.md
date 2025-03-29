@@ -1,7 +1,7 @@
-<h1 align="left">Hello World!!</h1>
+<h1 align="center">Hello World!!</h1>
 
-<h4 align="left">
-  Hi, I'm Windyl P. Monton, a Full Stack Developer in the making and a 2nd-year BSIT student. 
+<h4 align="center" style="font-family: monospace;">
+  Hi, I'm Windyl P. Monton, a Full Stack Developer in the making and a 2nd-year BSIT student. <br>
   Passionate about building interactive and scalable web applications, I continuously strive to enhance my skills and explore new technologies to become a proficient developer.
 </h4>
 
@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" title="Supabase" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" title="Composer" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50" height="50"/>
 </div>
