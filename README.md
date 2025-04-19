@@ -1,11 +1,10 @@
 <h1 align="center">Hello World!!</h1>
 
 <h4 align="center" style="font-family: monospace;">
-  Hi, I'm Windyl P. Monton, a Full Stack Developer in the making and a 2nd-year BSIT student. <br>
-  Passionate about building interactive and scalable web applications, I continuously strive to enhance my skills and explore new technologies to become a proficient developer.
+Hi!, I'm Windyl P. Monton an aspiring software engineer , I am currently exploring web development and I am currently learning React, Laravel and Mysql aiming to build my first fullstack website, currently I know how to make static sites and sites that does API fetching, my projects below are hosted in Vercel feel free to check and suggest improvements
 </h4>
 
-<h2 align="center">Technologies I Have a Grasp On</h2>
+<h2 align="center">Tools and Technologies I have a grasp</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50" height="50"/>  
@@ -20,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="50" height="50"/>
 </div>
 
-<h2 align="center">Actively Learning</h2>
+<h2 align="center">Currently Learning</h2>
 
 <div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50" height="50"/>  
