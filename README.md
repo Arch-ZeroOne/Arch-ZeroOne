@@ -19,7 +19,7 @@ Hi!, I'm Windyl P. Monton an aspiring software engineer , I am currently explori
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="50" height="50"/>
 </div>
 
-<h2 align="center">Currently Learning</h2>
+
 
 <div align="center">  
  <h2 align="center">Currently Learning</h2>
