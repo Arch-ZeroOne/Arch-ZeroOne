@@ -17,9 +17,8 @@ Hi!, I'm Windyl P. Monton an aspiring software engineer , I am currently explori
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" title="Notion" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50" height="50"/>
 </div>
-
-
 
 <div align="center">  
  <h2 align="center">Currently Learning</h2>
@@ -30,8 +29,6 @@ Hi!, I'm Windyl P. Monton an aspiring software engineer , I am currently explori
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="50" height="50"/>
 </div>
-
-
 </div>
 
 <p align="center">
