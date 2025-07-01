@@ -49,11 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Arch-ZeroOne/Arch-ZeroOne/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Arch-ZeroOne/count.svg?"  />
