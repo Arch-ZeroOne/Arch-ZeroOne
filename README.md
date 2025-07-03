@@ -54,11 +54,6 @@
 
 
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arch-zeroone&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
 
 ---
 
