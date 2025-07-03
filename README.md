@@ -37,7 +37,7 @@
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,php,python" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php" alt="Languages & Frameworks" />
 </p>
 
 ### 🗄️ Databases & Cloud
