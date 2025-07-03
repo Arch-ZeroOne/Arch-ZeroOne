@@ -1,91 +1,140 @@
-<h1 align="center">Hi 👋 I'm Windyl P. Monton</h1>
-<h3 align="center">🧑‍💻 Aspiring Full-Stack Developer from the Philippines | Learning by Building</h3>
+# 👋 Welcome! I'm Windyl P. Monton
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Problem+Solver;Continuous+Learner;Building+the+Future)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
-  I’m a passionate and self-driven developer focused on continuous improvement through real-world projects and constant learning.<br />
-  Currently leveling up my skills by exploring modern web technologies and building clean, scalable software that solves real-world problems.
+  <img src="https://komarev.com/ghpvc/?username=arch-zeroone&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/arch-zeroone?style=flat-square&color=blue&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-brightgreen?style=flat-square" alt="Focus" />
 </p>
-
-- 🚧 Currently building: [**Thrift Store (E-commerce Site)**](https://github.com/Arch-ZeroOne/Thrift_Store)  
-- 📘 Currently learning: **Node.js**, **Express.js**, **Python**, **TypeScript**, **Next.js**  
-- 🌐 Portfolio: [**freelance-portfolio-liart.vercel.app**](https://freelance-portfolio-liart.vercel.app/)  
-- 📫 Reach me at: **windylmonton2@gmail.com**  
-- 💡 Fun fact: I enjoy breaking things just to figure out how they work.
 
 ---
 
-<h3 align="left">📱 Connect with me:</h3>
+## 🚀 About Me
+
+> **Passionate Full-Stack Developer** from the Philippines 🇵🇭  
+> Transforming ideas into scalable web solutions through clean code and innovative thinking
+
+- 🔭 **Currently Building:** [Thrift Store E-commerce Platform](https://github.com/Arch-ZeroOne/Thrift_Store)
+- 🌱 **Learning Journey:** Mastering modern web technologies and cloud architecture
+- 💼 **Portfolio:** [freelance-portfolio-liart.vercel.app](https://freelance-portfolio-liart.vercel.app/)
+- 💡 **Philosophy:** *"I break things to understand how they work, then build them better"*
+- 📍 **Location:** Philippines
+- 🎯 **Goal:** Contributing to impactful projects that solve real-world problems
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🎯 Currently Mastering
 <p align="left">
-  <a href="https://fb.com/windyl parcon monton" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="windyl parcon monton" height="30" width="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,typescript,nextjs" alt="Current Learning Stack" />
 </p>
 
----
-
-<h3 align="left">🧠 Actively Learning:</h3>
+### 💻 Languages & Frameworks
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,php,python" alt="Languages & Frameworks" />
 </p>
 
----
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
+### 🗄️ Databases & Cloud
 <p align="left">
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases & Cloud" />
+</p>
+
+### 🔧 Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,tailwind" alt="Development Tools" />
 </p>
 
 ---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arch-zeroone&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arch-zeroone&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arch-zeroone&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arch-zeroone&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arch-zeroone&show_icons=true&locale=en&layout=compact" alt="arch-zeroone" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arch-zeroone&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🎯 Current Focus Areas
+
+```javascript
+const windyl = {
+    currentRole: "Full-Stack Developer",
+    currentProjects: ["Thrift Store E-commerce", "Portfolio Enhancement"],
+    learningStack: ["Node.js", "Express.js", "Python", "TypeScript", "Next.js"],
+    architecture: ["RESTful APIs", "Microservices", "Database Design"],
+    interests: ["Web Development", "Problem Solving", "Open Source"],
+    goals: ["Master Full-Stack Development", "Contribute to Open Source", "Build Scalable Solutions"]
+};
+```
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  
+[![Thrift Store](https://github-readme-stats.vercel.app/api/pin/?username=arch-zeroone&repo=Thrift_Store&theme=tokyonight)](https://github.com/Arch-ZeroOne/Thrift_Store)
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:windylmonton2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://fb.com/windyl parcon monton">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://freelance-portfolio-liart.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/arch-zeroone">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## 💭 Developer Quote
+
+<div align="center">
+  
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" alt="Footer" />
+</div>
+
+<p align="center">
+  <b>⭐ Star my repositories if you find them useful!</b>
 </p>
