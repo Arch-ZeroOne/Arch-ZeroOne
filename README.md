@@ -1,110 +1,18 @@
-# 👋 Welcome! I'm Windyl P. Monton
+# 💫 About Me:
+I am Windyl P. Monton, an aspiring Software Engineer.<br>I am passionate about building practical solutions through technology and continuously improving my skills in software development. Currently, I am working on my side project, “Thrift Store,” where I apply my knowledge of web development and software design to create a functional and user-friendly platform.<br><br>Beyond web development, I am also exploring JavaFX to strengthen my desktop application development skills, while diving into the field of Machine Learning to broaden my understanding of data-driven systems and intelligent applications.<br><br>My goal is to combine these areas of expertise to become a well-rounded engineer capable of building impactful and innovative software solutions.
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=Aspiring+Full-Stack+Developer;Problem+Solver;Continuous+Learner;Building+the+Future)](https://git.io/typing-svg)
 
-</div>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Windyl Monton) 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arch-zeroone&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/arch-zeroone?style=flat-square&color=blue&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-brightgreen?style=flat-square" alt="Focus" />
-</p>
-
----
-
-## 🚀 About Me
-
-> **Passionate Full-Stack Developer** from the Philippines 🇵🇭  
-> Transforming ideas into scalable web solutions through clean code and innovative thinking
-
-- 🔭 **Currently Building:** [Thrift Store E-commerce Platform](https://github.com/Arch-ZeroOne/Thrift_Store)
-- 🌱 **Learning Journey:** Mastering modern web technologies and cloud architecture
-- 💼 **Portfolio:** [freelance-portfolio-liart.vercel.app](https://freelance-portfolio-liart.vercel.app/)
-- 💡 **Philosophy:** *"I break things to understand how they work, then build them better"*
-- 📍 **Location:** Philippines
-- 🎯 **Goal:** Contributing to impactful projects that solve real-world problems
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat-square&logo=daisyui&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Arch-ZeroOne&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Arch-ZeroOne&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arch-ZeroOne&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Arch-ZeroOne&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack & Tools
-
-### 🎯 Currently Mastering
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,typescript,nextjs" alt="Current Learning Stack" />
-</p>
-
-### 💻 Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php" alt="Languages & Frameworks" />
-</p>
-
-### 🗄️ Databases & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases & Cloud" />
-</p>
-
-### 🔧 Development Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,tailwind" alt="Development Tools" />
-</p>
-
----
-
-
-
-
----
-
-## 🎯 Current Focus Areas
-
-```javascript
-const windyl = {
-    currentRole: "Full-Stack Developer",
-    currentProjects: ["Thrift Store E-commerce", "Portfolio Enhancement"],
-    learningStack: ["Node.js", "Express.js", "Python", "TypeScript", "Next.js"],
-    architecture: ["RESTful APIs", "Microservices", "Database Design"],
-    interests: ["Web Development", "Problem Solving", "Open Source"],
-    goals: ["Master Full-Stack Development", "Contribute to Open Source", "Build Scalable Solutions"]
-};
-```
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  
-[![Thrift Store](https://github-readme-stats.vercel.app/api/pin/?username=arch-zeroone&repo=Thrift_Store&theme=tokyonight)](https://github.com/Arch-ZeroOne/Thrift_Store)
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:windylmonton2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://fb.com/windyl parcon monton">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://freelance-portfolio-liart.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/arch-zeroone">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" alt="Footer" />
-</div>
-
-<p align="center">
-  <b>⭐ Star my repositories if you find them useful!</b>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
