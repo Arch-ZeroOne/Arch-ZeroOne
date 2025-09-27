@@ -16,6 +16,10 @@ I am Windyl P. Monton, an aspiring Software Engineer.<br>I am passionate about b
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
+# 📚 Currently Learning:
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" height="25"/> 
+<img src="https://img.shields.io/badge/prisma-3982CE?style=flat&logo=Prisma&logoColor=white" height="25"/>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arch-ZeroOne&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arch-ZeroOne&theme=dark&hide_border=true)<br/>
