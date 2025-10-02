@@ -1,34 +1,95 @@
-# 💫 About Me:
-I am Windyl P. Monton, an aspiring Software Engineer.<br>I am passionate about building practical solutions through technology and continuously improving my skills in software development. Currently, I am working on my side project, “Thrift Store,” where I apply my knowledge of web development and software design to create a functional and user-friendly platform.<br><br>Beyond web development, I am also exploring JavaFX to strengthen my desktop application development skills, while diving into the field of Machine Learning to broaden my understanding of data-driven systems and intelligent applications.<br><br>My goal is to combine these areas of expertise to become a well-rounded engineer capable of building impactful and innovative software solutions.
+<div align="center">
 
+# 💫 About Me
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+</div>
 
-# 📚 Currently Learning:
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" height="28"/>
+<p align="center">
+I am <strong>Windyl P. Monton</strong>, an aspiring Software Engineer passionate about building practical solutions through technology and continuously improving my skills in software development.
 </p>
 
+<p align="center">
+Currently, I am working on my side project, <strong>"Thrift Store,"</strong> where I apply my knowledge of web development and software design to create a functional and user-friendly platform.
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arch-ZeroOne&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Arch-ZeroOne&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arch-ZeroOne&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Beyond web development, I am also exploring <strong>JavaFX</strong> to strengthen my desktop application development skills, while diving into the field of <strong>Machine Learning</strong> to broaden my understanding of data-driven systems and intelligent applications.
+</p>
+
+<p align="center">
+My goal is to combine these areas of expertise to become a well-rounded engineer capable of building impactful and innovative software solutions.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Arch-ZeroOne&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+## 💻 Tech Stack
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white" alt="NPM"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+
+---
+
+<div align="center">
+
+## 📚 Currently Learning
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/prisma-2D3748.svg?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+</p>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arch-ZeroOne&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Arch-ZeroOne&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arch-ZeroOne&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=Arch-ZeroOne&icon=2&color=6)](https://visitcount.itsvg.in)
+
+*Proudly created with [GPRM](https://gprm.itsvg.in)*
+
+</div>
