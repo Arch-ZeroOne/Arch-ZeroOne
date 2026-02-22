@@ -19,14 +19,11 @@ Exploring JavaFX for desktop apps and diving into Machine Learning on the side.
 
 ## Currently Learning
 
-`JavaFX` · `Machine Learning` · `Software Design Patterns`
-
----
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Arch-ZeroOne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arch-ZeroOne&layout=compact&theme=tokyonight&hide_border=true)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database%20Design-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-6DB33F?style=flat-square&logo=diagrams.net&logoColor=white)
+![Software Design Patterns](https://img.shields.io/badge/Design%20Patterns-000000?style=flat-square&logo=abstract&logoColor=white)
 
 ---
 
