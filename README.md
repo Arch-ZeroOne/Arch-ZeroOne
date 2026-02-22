@@ -24,4 +24,4 @@ Exploring JavaFX for desktop apps and diving into Machine Learning on the side.
 ![Database Design](https://img.shields.io/badge/Database%20Design-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![System Design](https://img.shields.io/badge/System%20Design-6DB33F?style=flat-square&logo=diagrams.net&logoColor=white)
 ![Software Design Patterns](https://img.shields.io/badge/Design%20Patterns-000000?style=flat-square&logo=abstract&logoColor=white)
-
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
