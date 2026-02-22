@@ -25,6 +25,3 @@ Exploring JavaFX for desktop apps and diving into Machine Learning on the side.
 ![System Design](https://img.shields.io/badge/System%20Design-6DB33F?style=flat-square&logo=diagrams.net&logoColor=white)
 ![Software Design Patterns](https://img.shields.io/badge/Design%20Patterns-000000?style=flat-square&logo=abstract&logoColor=white)
 
----
-
-[![Visits](https://visitcount.itsvg.in/api?id=Arch-ZeroOne&icon=2&color=6)](https://visitcount.itsvg.in)
