@@ -24,22 +24,3 @@ Exploring Machine Learning and Data Analytics while continuously improving my ba
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Data%20Analytics](https://img.shields.io/badge/Data%20Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
----
-
-## Focus Areas
-
-- Full-Stack Web Development
-- Backend Architecture
-- API Development
-- Machine Learning Fundamentals
-- Data Analytics & Visualization
-
----
-
-## Goals
-
-- Build scalable and production-ready applications
-- Strengthen problem-solving and software architecture skills
-- Learn modern backend and AI technologies deeply
-- Continuously improve through hands-on projects
