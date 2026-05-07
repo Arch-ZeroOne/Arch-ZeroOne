@@ -2,26 +2,44 @@
 
 > Aspiring Software Engineer · Building practical solutions · Always learning
 
-Currently building **Thrift Store** — a full-stack web platform where I put everything into practice.
-Exploring JavaFX for desktop apps and diving into Machine Learning on the side.
+Currently building **Thrift Store** — a full-stack web platform where I apply and strengthen my skills through real-world development.  
+Exploring Machine Learning and Data Analytics while continuously improving my backend and frontend development skills.
 
 ---
 
-## Stack
+## Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
 ## Currently Learning
 
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Database Design](https://img.shields.io/badge/Database%20Design-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-6DB33F?style=flat-square&logo=diagrams.net&logoColor=white)
-![Software Design Patterns](https://img.shields.io/badge/Design%20Patterns-000000?style=flat-square&logo=abstract&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data%20Analytics](https://img.shields.io/badge/Data%20Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+---
+
+## Focus Areas
+
+- Full-Stack Web Development
+- Backend Architecture
+- API Development
+- Machine Learning Fundamentals
+- Data Analytics & Visualization
+
+---
+
+## Goals
+
+- Build scalable and production-ready applications
+- Strengthen problem-solving and software architecture skills
+- Learn modern backend and AI technologies deeply
+- Continuously improve through hands-on projects
