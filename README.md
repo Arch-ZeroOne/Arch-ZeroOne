@@ -40,9 +40,15 @@ I'm currently focused on full-stack web development, backend engineering, mobile
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="React Native" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python" />
+
+<img
+  src="https://raw.githubusercontent.com/react-native-community/react-native-website/main/website/static/img/logo.svg"
+  alt="React Native"
+  height="55"
+/>
+
+
 
 </div>
 
