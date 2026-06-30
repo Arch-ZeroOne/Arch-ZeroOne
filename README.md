@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Windyl P. Monton
@@ -6,73 +7,68 @@
 
 Passionate about building modern web applications, continuously learning new technologies, and solving real-world problems through software.
 
-I'm currently focused on full-stack web development, backend engineering, mobile development, and machine learning. I enjoy transforming ideas into scalable, user-friendly applications while continuously improving my technical skills through hands-on projects.
+I'm currently focused on full-stack web development, backend engineering, mobile development, and artificial intelligence. I enjoy transforming ideas into scalable, user-friendly applications while continuously improving my technical skills through hands-on projects.
 
 **Open to internships, junior developer roles, freelance opportunities, and collaborations.**
 
 </div>
 
-<br>
-
 ---
 
-## Tech Stack
-
-<br>
+# Tech Stack
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="55" alt="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="55" alt="Express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="55" alt="Prisma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="55" alt="Supabase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="VS Code" />
 
 </div>
 
-<br>
-
 ---
 
-## Currently Learning
-
-<br>
+# Currently Learning
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="React Native" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python" />
 
 </div>
 
-<br>
+- React Native
+- Python
+- Artificial Intelligence
+- Data Science
 
 ---
 
-## Current Focus
+# Current Focus
 
 - Building scalable full-stack web applications using React and Next.js.
-- Strengthening backend development with Node.js, Express, Prisma, and Supabase.
-- Learning mobile development with React Native.
-- Exploring machine learning, computer vision, and data science using Python.
-- Developing portfolio projects that solve real-world problems.
-
-<br>
+- Strengthening backend development with Node.js, Express, and Prisma.
+- Learning cross-platform mobile development with React Native.
+- Exploring Artificial Intelligence and Data Science.
+- Building portfolio projects that solve real-world problems.
 
 ---
 
-## Goals
+# Goals
 
 - Build production-ready full-stack applications.
+- Develop web and mobile applications as a long-term hobby.
 - Learn cloud deployment and DevOps fundamentals.
 - Contribute to open-source projects.
-- Expand my expertise in Artificial Intelligence and Machine Learning.
-- Grow into a well-rounded Software Engineer.
-
+- Expand my expertise in Artificial Intelligence.
+- Continuously improve as a Software Engineer through lifelong learning.
 ```
-```
-````
