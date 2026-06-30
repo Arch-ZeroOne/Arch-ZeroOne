@@ -1,26 +1,21 @@
 # Windyl P. Monton
-
 > Aspiring Software Engineer · Building practical solutions · Always learning
-
-Currently building **Thrift Store** — a full-stack web platform where I apply and strengthen my skills through real-world development.  
+> Currently building **Thrift Store** — a full-stack web platform where I apply and strengthen my skills through real-world development.
 Exploring Machine Learning and Data Analytics while continuously improving my backend and frontend development skills.
 
 ---
 
 ## Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-flat?style=flat-square&logo=react&logoColor=61DAFB&color=20232A)
+![Next.js](https://img.shields.io/badge/Next.js-flat?style=flat-square&logo=next.js&logoColor=white&color=000000)
+![Prisma](https://img.shields.io/badge/Prisma-flat?style=flat-square&logo=prisma&logoColor=white&color=2D3748)
+![Supabase](https://img.shields.io/badge/Supabase-flat?style=flat-square&logo=supabase&logoColor=white&color=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-flat?style=flat-square&logo=postgresql&logoColor=white&color=4169E1)
+![Express](https://img.shields.io/badge/Express-flat?style=flat-square&logo=express&logoColor=white&color=000000)
+![Node.js](https://img.shields.io/badge/Node.js-flat?style=flat-square&logo=node.js&logoColor=white&color=339933)
 
 ---
 
 ## Currently Learning
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Data%20Analytics](https://img.shields.io/badge/Data%20Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-flat?style=flat-square&logo=tensorflow&logoColor=white&color=FF6F00)
+![Python](https://img.shields.io/badge/Python-flat?style=flat-square&logo=python&logoColor=white&color=3776AB)
