@@ -36,19 +36,6 @@ I'm currently focused on full-stack web development, backend engineering, mobile
 
 ---
 
-# Currently Learning
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python" />
-
-<img
-  src="https://raw.githubusercontent.com/react-native-community/react-native-website/main/website/static/img/logo.svg"
-  alt="React Native"
-  height="55"
-/>
-
-
 
 </div>
 
@@ -77,4 +64,4 @@ I'm currently focused on full-stack web development, backend engineering, mobile
 - Contribute to open-source projects.
 - Expand my expertise in Artificial Intelligence.
 - Continuously improve as a Software Engineer through lifelong learning.
-```
+
