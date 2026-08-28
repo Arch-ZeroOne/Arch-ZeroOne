@@ -9,6 +9,7 @@ Open to internships, junior developer roles, freelance work, and collaborations.
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,prisma,postgres,supabase,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 ### Currently Exploring
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,bots,selenium,chrome,flutter&theme=dark)](https://skillicons.dev)
 - Machine learning fundamentals
 - Bots and automation
 - Web scraping
