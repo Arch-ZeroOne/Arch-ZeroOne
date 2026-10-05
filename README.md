@@ -10,17 +10,16 @@ Open to internships, junior developer roles, freelance work, and collaborations.
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,prisma,postgres,supabase,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,prisma,postgres,supabase,flutter,dart,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 <br>
 
 ### Currently Exploring
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,flutter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase&theme=dark)](https://skillicons.dev)
 
 - System design
 - Firebase
-- Flutter
 
 <br>
 
