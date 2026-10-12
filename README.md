@@ -1,10 +1,26 @@
-# Windyl P. Monton
+<h1 align="center">Windyl P. Monton</h1>
 
-Aspiring Software Engineer building full-stack web applications.
+<p align="center">
+  <sub>SOFTWARE DEVELOPER &nbsp;·&nbsp; FULL-STACK WEB APPLICATIONS</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
+
+---
+
 I like taking an idea, breaking it down, and shipping something people can actually use.
 
-Currently working as an **Associate Developer**.
-Open to internships, junior developer roles, freelance work, and collaborations.
+<br>
+
+| | |
+|:--|:--|
+| **Role** | Associate Developer |
+| **Focus** | Full-stack web development |
+| **Open to** | Internships, junior developer roles, freelance work, collaborations |
 
 <br>
 
@@ -14,21 +30,30 @@ Open to internships, junior developer roles, freelance work, and collaborations.
 
 <br>
 
-### Currently Exploring
+### Currently
 
-[![My Skills](https://skillicons.dev/icons?i=firebase&theme=dark)](https://skillicons.dev)
-
-- System design
-- Firebase
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Building</b><br><br>
+      An app at my current role. Details are not public yet.
+    </td>
+    <td width="50%" valign="top">
+      <b>Learning</b><br><br>
+      System design<br>
+      Firebase
+    </td>
+  </tr>
+</table>
 
 <br>
 
-### Currently Building
+### Contact
 
-Working on an app at my current role — can't share the details just yet.
+Want to build something together? Reach me at [YOUR_EMAIL](mailto:YOUR_EMAIL) or on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN).
 
-<br>
+---
 
-### Let's Connect
-
-Feel free to reach out if you want to build something together.
+<p align="center">
+  <sub>Windyl P. Monton</sub>
+</p>
