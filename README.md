@@ -1,83 +1,44 @@
 <h1 align="center">Windyl P. Monton</h1>
 
 <p align="center">
-  Software developer building full-stack web applications
+  Software developer building full-stack web applications.<br>
+  <a href="mailto:windylmonton2@gmail.com">Email</a> ·
+  <a href="https://github.com/Arch-ZeroOne">GitHub</a> ·
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
 </p>
 
-<p align="center">
-  <a href="#01--about">About</a> &nbsp;/&nbsp;
-  <a href="#02--tech-stack">Stack</a> &nbsp;/&nbsp;
-  <a href="#03--now">Now</a> &nbsp;/&nbsp;
-  <a href="#04--contact">Contact</a>
-</p>
+---
 
-<br>
-
-## 01 &nbsp;About
+### About
 
 I like taking an idea, breaking it down, and shipping something people can actually use. I work across the stack, from data models and APIs to the interface people touch.
 
-<table>
-  <tr>
-    <td width="140" valign="top"><b>Role</b></td>
-    <td>Associate Developer</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Focus</b></td>
-    <td>Full-stack web and Android development</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Availability</b></td>
-    <td>Open to internships, junior developer roles, freelance work, and collaborations</td>
-  </tr>
-</table>
+- **Role:** Associate Developer
+- **Focus:** Full-stack web and Android development
+- **Open to:** Internships, junior roles, freelance work, and collaborations
 
-<br>
+### Stack
 
-## 02 &nbsp;Tech Stack
+![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-111?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-111?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-111?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![Flutter](https://img.shields.io/badge/Flutter-111?style=flat-square&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-111?style=flat-square&logo=dart&logoColor=0175C2)
+![Firebase](https://img.shields.io/badge/Firebase-111?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Git](https://img.shields.io/badge/Git-111?style=flat-square&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-111?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
-<table>
-  <tr>
-    <td width="140" valign="middle"><b>Web</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,prisma,postgres,supabase&theme=dark" alt="Web stack" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>Android</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" alt="Android stack" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
-    </td>
-  </tr>
-</table>
+### Now
 
-<br>
+- **Building:** An app at my current role (details not public yet)
+- **Learning:** System design
 
-## 03 &nbsp;Now
+### Contact
 
-<table>
-  <tr>
-    <td width="140" valign="top"><b>Building</b></td>
-    <td>An app at my current role. Details are not public yet.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Learning</b></td>
-    <td>System design</td>
-  </tr>
-</table>
-
-<br>
-
-## 04 &nbsp;Contact
-
-Have something you want to build? I'm happy to talk.
-
-<a href="mailto:windylmonton2@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Arch-ZeroOne"><img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+Have something you want to build? [Email me](mailto:windylmonton2@gmail.com), I'm happy to talk.
